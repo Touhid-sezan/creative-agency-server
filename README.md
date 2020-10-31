@@ -1,7 +1,7 @@
 ## Project Name: Creative IT Agency Application
 
 ## [Live website](https://creative-agency-1.web.app/)
-## [Server Code](https://github.com/Touhid-sezan/creative-agency-client)
+## [Client side Code](https://github.com/Touhid-sezan/creative-agency-client)
 
 ## Features:
 * Customer can take IT services.
